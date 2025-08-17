@@ -12,3 +12,7 @@ import random
 dir=input("left")
 dir2=random.choice(dir)
 ```
+
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
