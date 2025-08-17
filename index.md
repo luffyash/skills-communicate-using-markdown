@@ -6,3 +6,9 @@
 ###### h6 header
 
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
+```python
+import random
+dir=input("left")
+dir2=random.choice(dir)
+```
